@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.6.1",
     "smooth-scroll": "^16.1.0"
   },
   "devDependencies": {
